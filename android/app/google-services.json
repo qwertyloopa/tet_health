@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "240926975886",
+    "project_id": "tet-med",
+    "storage_bucket": "tet-med.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240926975886:android:d86f1af7f0306e38a066df",
+        "android_client_info": {
+          "package_name": "com.tet.health.tet_health"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240926975886-r1ipbf085hgbeotvk2e1t7dgrpckkki9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiosVVjeCWJEW3uxQgl3jv5e8B2QhCs_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240926975886-r1ipbf085hgbeotvk2e1t7dgrpckkki9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
